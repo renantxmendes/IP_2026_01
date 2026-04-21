@@ -1,0 +1,43 @@
+# Mural de Engenharia de Software: Processos e Ciclos de Vida
+
+## 1. Introdução à Engenharia de Software
+A Engenharia de Software fornece a estrutura necessária para construir sistemas complexos com qualidade, previsibilidade e manutenibilidade. Ela transforma o desenvolvimento em um processo disciplinado, essencial para projetos acadêmicos e profissionais.
+
+---
+
+## 2. Modelos de Processo de Software
+
+### 🟦 Modelo Cascata (Waterfall)
+* **Características:** Abordagem sequencial e linear. Uma fase deve ser concluída antes da próxima começar.
+* **Vantagem:** Facilidade de gestão em projetos com requisitos muito bem definidos.
+* **Aplicação:** Ideal para documentações técnicas iniciais e definições de infraestrutura rígidas.
+
+### 🟧 Metodologias Ágeis (Agile)
+* **Características:** Desenvolvimento iterativo e incremental. Foco em entregas rápidas e feedback constante.
+* **Vantagem:** Alta adaptabilidade a mudanças.
+* **Exemplo (Scrum):** Divisão do trabalho em *Sprints* para evolução constante do produto.
+
+---
+
+## 3. O Ciclo de Vida de Desenvolvimento de Software (SDLC)
+
+Para ilustrar o ciclo de vida, utilizamos como exemplo o desenvolvimento do **Design System do Shopping Flamboyant**:
+
+| Fase | Atividade Principal | Aplicação no Projeto Flamboyant |
+| :--- | :--- | :--- |
+| **1. Requisitos** | Levantamento das necessidades do usuário e do negócio. | Definição de componentes necessários (botões, cards, tipografia) conforme a identidade visual do shopping. |
+| **2. Design** | Modelagem da arquitetura e interfaces. | Criação do guia de estilos (Style Guide) e prototipagem no Figma. |
+| **3. Implementação** | Escrita do código e desenvolvimento técnico. | Codificação dos componentes utilizando frameworks (ex: Go para o backend ou React para o frontend). |
+| **4. Testes** | Validação de bugs e usabilidade. | Verificação de responsividade em diferentes telas e acessibilidade das cores. |
+| **5. Manutenção** | Correções e atualizações pós-lançamento. | Adição de novos padrões visuais para campanhas sazonais do shopping. |
+
+---
+
+## 4. Práticas de Qualidade e Ferramentas
+* **Versionamento:** Uso do Git/GitHub para colaboração em grupo.
+* **Documentação:** Registro de decisões arquiteturais e guias de uso.
+* **Padronização:** Garantia de que todos os componentes do sistema seguem a mesma lógica visual e técnica.
+
+---
+
+> **Nota de Grupo:** Este mural serve como base teórica para a estruturação das atividades supervisionadas, garantindo que o desenvolvimento técnico esteja alinhado às melhores práticas da engenharia.
